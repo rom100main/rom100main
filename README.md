@@ -1,23 +1,23 @@
 <picture>
   <source
-    srcset="https://github-readme-stats-rom100main.vercel.app/api?username=rom100main&show_icons=true&hide_border=true&theme=dark"
+    srcset="https://github-readme-stats-rom100main.vercel.app/api?username=rom100main&show_icons=true&hide_border=true&bg_color=00000000&theme=dark"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats-rom100main.vercel.app/api?username=rom100main&show_icons=true&hide_border=true"
+    srcset="https://github-readme-stats-rom100main.vercel.app/api?username=rom100main&show_icons=true&hide_border=true&bg_color=00000000"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img style="background-color:transparent" src="https://github-readme-stats-rom100main.vercel.app/api?username=rom100main&show_icons=true&hide_border=true" />
+  <img src="https://github-readme-stats-rom100main.vercel.app/api?username=rom100main&show_icons=true&hide_border=true&bg_color=00000000" />
 </picture>
 <br/>
 <picture>
   <source
-    srcset="https://github-readme-stats-rom100main.vercel.app/api/top-langs/?username=rom100main&layout=donut&hide_border=true&theme=dark"
+    srcset="https://github-readme-stats-rom100main.vercel.app/api/top-langs/?username=rom100main&layout=donut&hide_border=true&bg_color=00000000&theme=dark"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats-rom100main.vercel.app/api/top-langs/?username=rom100main&layout=donut&hide_border=true"
+    srcset="https://github-readme-stats-rom100main.vercel.app/api/top-langs/?username=rom100main&layout=donut&hide_border=true&bg_color=00000000"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img style="background-color:transparent" src="https://github-readme-stats-rom100main.vercel.app/api/top-langs/?username=rom100main&layout=donut&hide_border=true" />
+  <img src="https://github-readme-stats-rom100main.vercel.app/api/top-langs/?username=rom100main&layout=donut&hide_border=true&bg_color=00000000" />
 </picture>
