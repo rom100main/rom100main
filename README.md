@@ -7,7 +7,7 @@
     srcset="https://github-readme-stats-rom100main.vercel.app/api?username=rom100main&show_icons=true&hide_border=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img style="width:100%" src="https://github-readme-stats-rom100main.vercel.app/api?username=rom100main&show_icons=true&hide_border=true" />
+  <img style="background-color:transparent" src="https://github-readme-stats-rom100main.vercel.app/api?username=rom100main&show_icons=true&hide_border=true" />
 </picture>
 <br/>
 <picture>
@@ -19,5 +19,5 @@
     srcset="https://github-readme-stats-rom100main.vercel.app/api/top-langs/?username=rom100main&layout=donut&hide_border=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img style="width:100%" src="https://github-readme-stats-rom100main.vercel.app/api/top-langs/?username=rom100main&layout=donut&hide_border=true" />
+  <img style="background-color:transparent" src="https://github-readme-stats-rom100main.vercel.app/api/top-langs/?username=rom100main&layout=donut&hide_border=true" />
 </picture>
