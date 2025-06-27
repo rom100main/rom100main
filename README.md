@@ -19,5 +19,5 @@
     srcset="https://github-readme-stats-rom100main.vercel.app/api/top-langs/?username=rom100main&layout=compact&exclude_repo=english-arcade-games&hide_border=true&bg_color=00000000"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats-rom100main.vercel.app/api/top-langs/?username=rom100main&layout=compact&exclude_repo=english-arcade-games&hide_border=true&bg_color=00000000" />
+  <img style="vertical-align: top;" src="https://github-readme-stats-rom100main.vercel.app/api/top-langs/?username=rom100main&layout=compact&exclude_repo=english-arcade-games&hide_border=true&bg_color=00000000" />
 </picture>
